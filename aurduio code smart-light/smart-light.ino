@@ -5,7 +5,7 @@
 String URL ="http://172.22.4.112/smart_light/test_data.php" ;
 
 const char *ssid = "IITRPR";
-const char *password = "V#6qF?pyM!bQ$%NX";
+const char *password = "V#6qF?pyM!b09Q$%NX";
 const int ldrPin = 34 ; // LDR sensor pin
 const int irpin = 27 ;
 const int ledpin = 23 ;
